@@ -1,0 +1,13 @@
+estados: q1 q2 q3 q4
+alfabeto de entrada: 0 1 
+funciones de transicion: 
+q1->q2:1 
+q1->q1:0 
+q2->q3:0 
+q2->q1:1 
+q3->q4:1 
+q3->q2:0 
+q4->q3:0
+q4->q4:1
+estado inicial: q1 
+estado final: q4
