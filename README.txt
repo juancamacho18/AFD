@@ -5,6 +5,7 @@ Organizacion del archivo AFD:
 	|AFD.y
 	|AFD.tab.h
 	|AFD.tab.c
+	|main.c
 	|AFD
 	|conf.txt
 	
